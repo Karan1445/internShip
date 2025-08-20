@@ -1,0 +1,158 @@
+
+body{
+  
+   background-color: rgba(225, 149, 237, 0.334);
+   display: flex;
+   justify-content: center;
+}
+.logotext{
+   float:left;
+}
+.navbar{
+   float:rig
+}
+.logotext::first-letter{
+   font-style: normal;
+   margin-right: 10px;
+   color: black;
+}
+h2{
+   position: relative;
+   background-color: red;
+}
+h2::after{
+   position: absolute;
+   content: "TOP";
+   font-size: 20px;
+   background-color: yellow;
+   border-radius: 10%;
+   font-style: normal;
+   display: inline-block;
+   top:0;
+   right:0;
+}
+h2::first-letter{
+   font-size: 80px;
+}
+h3 + p::first-line{
+   color: red;
+}
+ .container{
+         width: 70%;
+        }
+ h1,h2,h3,h4,p,li{
+    font-family: sans-serif;
+ } 
+   .header-main{
+      height: 250px;
+   }  
+ h1{
+         color:rgb(166, 121, 209);
+         font-size: 26px;
+         text-transform: uppercase;
+         font-style: italic;
+     }
+     h2{
+        color:rgb(103, 103, 203);
+        font-size: 40px;
+       
+        font-style: oblique;
+     }
+     h3{
+        color:rebeccapurple;
+        font-size: 28px;
+
+     }
+     h4{
+        text-align: center;
+        color:yellowgreen;
+        font-size:20px;
+        font-style: oblique;
+       
+        text-transform: uppercase;
+     }
+     li{
+        font-size: 15px;
+       
+        line-height: 1.4;
+     }
+     p{
+        font-size: 14px;
+        color:rgb(78, 132, 239);
+        font-family: sans-serif;
+        line-height: 1.5;
+     }
+     footer p{
+        font-style: 10px;
+     }
+     header p{
+        font-style: italic;
+     }
+        ol{
+            border: 1px solid black;
+            margin: 4px;
+        }
+        div,header,article,footer{
+           background-color: rgba(211, 210, 210, 0.499);
+           border: 1px solid black;
+           margin: 10px;
+           padding: 10px;
+        }
+        #lauraimg{
+            width: 60px;
+            height: 60px;
+            border-radius: 10px;
+        }
+        #MakeFirstLetterBold::first-letter{
+            font-weight: bold   ;
+        }
+        .littlespace{
+            border: 1px solid black;
+        }
+        #postimg{
+            width: 450px;
+            height: 200px;
+        }
+        #relatedphoto1{
+            width: 70px;
+            height: 70px;
+        }
+        .ui-removebullet{
+            list-style-type: none;
+        }
+        .footer-div{
+         width: 350px;
+         background-color:rgba(170, 170, 170, 0.416);
+         border: 2px solid black;
+        }
+        
+        a:any-link{
+         color: brown;
+         text-decoration:none;
+        }
+        a:visited{
+         color: blue;
+        }
+
+        .div-likebutton{
+        background-color: transparent;
+         border: 0px;
+         display: flex;
+         position: absolute   ;
+          top: 90%;
+          right: 15.55%;
+         height: 50px;
+        }
+        .LikeButton{
+         border-radius: 20%;
+         height: 100%;
+         width: 100%;
+        color: red;
+        background-color: blue   ;
+        }
+        .LikeButton:hover{
+         cursor:grab;
+         background-color: aqua;
+        }
+       
+       

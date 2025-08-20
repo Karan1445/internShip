@@ -1,0 +1,38 @@
+.header{
+    background-color: grey;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.centerdiv{
+    width:40%;
+    background-color: grey;
+    height: 50px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.article{
+
+}
+.inside1-article{
+
+    background-color: grey;
+    width: 48%;
+    height: 450px;
+    float:left;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+.inside2-article{
+    background-color: grey;
+    width: 48%;
+    height: 450px;
+    float:right;
+}
+.whitediv{
+    background-color: rgb(0, 0, 0);
+    width: 90%;
+    
+    height: 450px;
+}
