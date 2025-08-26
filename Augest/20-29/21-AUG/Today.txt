@@ -13,3 +13,33 @@ started video no 47 at 10:49
 at 11:34 completed  video no 4 with practical
 
 started video no 48-clearing float at 11:34
+
+at 11:42 completed vide no 48
+
+at 11:43 started video no 49 building simlpe float (8:46)(preacticing)(till 11:59 learning code)(12:09 fixing float and learning)
+
+at 12:14 starting a video no 050 box-sizing and border box(11:13)
+
+ar 12:34 stating a new video no 51 its a challange#1
+at 11:47 completed the challange#1(starting watching same video to understand how he did it!)
+at 12:49 started video 052 flexbox
+
+at 1:03 started video -53 flex box overview
+
+at 1:09 startrd video no 053 spacing and aligning flex item
+at 1:21 started new video no 55 flex box property
+at 1:34 started video no 56(working on little bit building clock in codesand box) (taken 7 minn break)
+at 2:27 started video no 57 build simple flex layout(12:15)
+at 2:42 started new video 58 challange #2(completed challange at 2:57)(watching video			)
+at 3:08 started new video css grid(at 3:09 started doing code of grid to learn)(started video at 3:15)
+
+at 3:30 started new video 60
+
+at 3:46 started video no 61 sizing in grid
+
+at 4:04 started new video 062placin and spanning grid(learning grid created 9x9 grid with element in diffrent row ad explanding(conituning to the video))(taken break at 4:42-5:25(1-hour brak))
+
+at 5:44 started new video 063 alliging grid items and row
+
+at 6:00 sarted video no 64 Simple css grid layout
+from 6:20 (practicing grid)
