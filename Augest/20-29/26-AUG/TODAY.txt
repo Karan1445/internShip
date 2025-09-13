@@ -4,3 +4,9 @@ learning element and component
 Exploring websites like (Landbook ,onepagelove)
 Accordian component
 desiging accordian
+desiging carousel
+table component
+learning pagination component
+Practicing todays work
+
+functions-min(),clamp,calc,aspet-ratio,dvh,inert,border-image,column,inset ,attr,

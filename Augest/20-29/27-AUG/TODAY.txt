@@ -1,0 +1,6 @@
+LayoutPatter
+Hero Section
+web Application Layout
+exploring websites to get design idea and learn how design works 
+
+(https://mighty-solar.vercel.app/)

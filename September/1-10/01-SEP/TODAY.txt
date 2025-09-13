@@ -1,0 +1,9 @@
+Learning reposive ness in project
+WOrkig qith rem and max-width
+learning to build hero section
+learning to build  header
+learning to build Navigawtion
+learning to build reusaable grid
+learning to build How it works section
+learning to build featured in section
+learning to build Meals in section

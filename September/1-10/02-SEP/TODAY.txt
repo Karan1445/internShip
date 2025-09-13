@@ -1,0 +1,15 @@
+working on Meals Section
+working on testimonial section
+working on pricing section
+working on feature section
+working on call to action section
+Working on footer
+--------completed folder no 7--------
+working on media query
+learning and bulding how to make media query and how to use in website
+working on selecting of break points
+working on design changes for small laptop
+learning media query
+working on design on tablelt
+working on design on small tablelt
+working on design on mobile 

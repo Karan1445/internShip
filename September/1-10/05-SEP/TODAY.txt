@@ -1,0 +1,16 @@
+gave an exam text-3
+wrking on changes
+working and learning grid layout
+learning clip
+learning clip-path
+building hdeader using clip pathed image
+
+learning animation basics
+building button with nimation
+learning more about transform
+learning hoe css works
+three oillars of writing good css
+how css work behind scene
+how css is parsed(the cascade and specificity)
+performing all topics  
+specificity in practice
